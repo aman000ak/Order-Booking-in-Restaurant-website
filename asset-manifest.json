@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Order-Booking-in-Restaurant-website/static/css/main.1f779dbf.css",
+    "main.js": "/Order-Booking-in-Restaurant-website/static/js/main.3dcd8a7c.js",
+    "static/js/787.adc1714b.chunk.js": "/Order-Booking-in-Restaurant-website/static/js/787.adc1714b.chunk.js",
+    "static/media/restauranfood.jpg": "/Order-Booking-in-Restaurant-website/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
+    "static/media/Logo .svg": "/Order-Booking-in-Restaurant-website/static/media/Logo .fd87fc34e15316b670ea115ce700cd15.svg",
+    "index.html": "/Order-Booking-in-Restaurant-website/index.html",
+    "main.1f779dbf.css.map": "/Order-Booking-in-Restaurant-website/static/css/main.1f779dbf.css.map",
+    "main.3dcd8a7c.js.map": "/Order-Booking-in-Restaurant-website/static/js/main.3dcd8a7c.js.map",
+    "787.adc1714b.chunk.js.map": "/Order-Booking-in-Restaurant-website/static/js/787.adc1714b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f779dbf.css",
+    "static/js/main.3dcd8a7c.js"
+  ]
+}
